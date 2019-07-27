@@ -7,3 +7,5 @@ These are some simple R-scripts to visualize the network of mathematical subject
 - plotgraph.R plots this graph.
 
 There are some example outputs as well.
+
+If you create some nice pictures with this please share them!
