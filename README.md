@@ -9,3 +9,5 @@ These are some simple R-scripts to visualize the network of mathematical subject
 There are some example outputs as well.
 
 If you create some nice pictures with this please share them!
+
+![Example](netwerkplotceb.png)
