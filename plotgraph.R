@@ -1,6 +1,10 @@
 
 #--------PLOTS GRAPHS---------
 
+library('dplyr')
+library("naniar")
+library('igraph')
+
 #The subgraph of mathematical subgraphs
 mathV = V(thegraph)[grepl("Mathematics", V(thegraph)$name)]
 mathgraph = induced_subgraph(thegraph, mathV)
